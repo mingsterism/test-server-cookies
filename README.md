@@ -10,3 +10,7 @@ The express server has settings used to test for cookies.
 
 ## Todo
 1) ensure that cookies are signed and secure
+
+## Important Resources
+- [getting cookies](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/cookies/get)
+- [understand cors](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
