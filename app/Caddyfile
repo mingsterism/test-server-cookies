@@ -1,0 +1,7 @@
+:8080 {
+    root ./dist 
+    rewrite {
+        regexp .*
+        to {path} /
+    }
+}
